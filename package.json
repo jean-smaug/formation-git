@@ -1,0 +1,11 @@
+{
+  "name": "formation-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/the-smaug/formation-git.git",
+  "author": "you@example.com <you@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
