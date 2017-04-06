@@ -5,6 +5,9 @@
   "repository": "https://github.com/the-smaug/formation-git.git",
   "author": "you@example.com <you@example.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.15.2"
   }
