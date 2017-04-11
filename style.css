@@ -1,0 +1,23 @@
+html{
+  background-color: #fafafa;
+}
+
+#css-zen-garden{
+  background-color: #333;
+  font-family: monospace;
+  padding: 10px;
+  color: #ddd
+}
+
+h1{
+  text-align: center;
+}
+
+h2, h3{
+  color: #0dd;
+}
+
+a, a:active, a:hover{
+  color: #ddd;
+  text-decoration: none;
+}
