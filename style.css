@@ -12,7 +12,8 @@
 html {
 	margin: 0;
 	padding: 0;
-	}
+	background-color: grey;	
+}
 body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
